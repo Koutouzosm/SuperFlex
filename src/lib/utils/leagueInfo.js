@@ -7,7 +7,8 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>SuperFlex on Em.</p>
+  <p>SuperFlex on Em League.</p>
+  <p>Time for Malakies.</p>
 `;
 
 /*   STEP 3   */
